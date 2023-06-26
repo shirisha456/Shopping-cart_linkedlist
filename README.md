@@ -1,1 +1,3 @@
-# Shopping-cart_linkedlist
+Online Shopping Cart System is a  web based shopping system for an existing shop. This project delivers the online shopping application. Shopping cart is the process where users can directly buy goods in real-time. Users can buy products without an intermediary service on the Internet. This project is a form of e-commerce. Selected products can be added to the cart .There is manager session to add products to the shop. Each product is differentiated by its id. No two different products can have same id. Manager can also check for the stock of each product, delete selected products and update the stock. Customer can add their products to their shopping cart and also view their cart. Customer can also modify their products in the cart such as changing the quantity of the products or deleting the products. A bill will be generated when customer proceeds to checkout the cart . Eventually products will also be deleted from the cart.
+
+
